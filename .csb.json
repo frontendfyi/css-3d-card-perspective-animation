@@ -1,0 +1,18 @@
+{
+  "openFiles": [
+    "src/App.tsx",
+    "src/arc-card.tsx",
+    "src/browser-company-logo.tsx",
+    "src/index.css"
+  ],
+  "otherFiles": ["tailwind.config.js"],
+  "activeFile": "src/App.tsx",
+  "template": "vite-react-ts",
+  "options": {
+    "tailwind": true
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
